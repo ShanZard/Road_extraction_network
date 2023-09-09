@@ -1,12 +1,12 @@
 # Road_extraction_network
-This is a sRoad_extraction_network, it can be easy to read and learn. It also can add your network and dataset to train. 
+This is a Road_extraction_network, it can be easy to read and learn. It also can add your network and dataset to train. 
 
 ### 0. Quick start
 
 1. Git clone from GitHub.
 
 ```
-git clone https://github.com/ShanZard/Semantic-segmentation-framework.git
+git clone https://github.com/ShanZard/Road_extraction_network
 ```
 
 2. cd to Semantic-segmentation-framework
